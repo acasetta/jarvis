@@ -79,7 +79,8 @@
       <HintPath>..\packages\Serilog.Sinks.File.4.0.0\lib\net45\Serilog.Sinks.File.dll</HintPath>
     </Reference>
     <Reference Include="Spectre.System, Version=0.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Spectre.System.0.7.0\lib\net461\Spectre.System.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\spectre.system\src\Spectre.System\bin\Debug\net461\Spectre.System.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />

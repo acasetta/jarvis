@@ -46,10 +46,12 @@
       <HintPath>..\packages\Shouldly.2.8.3\lib\net451\Shouldly.dll</HintPath>
     </Reference>
     <Reference Include="Spectre.System, Version=0.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Spectre.System.0.7.0\lib\net461\Spectre.System.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\spectre.system\src\Spectre.System\bin\Debug\net461\Spectre.System.dll</HintPath>
     </Reference>
     <Reference Include="Spectre.System.Testing, Version=0.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Spectre.System.Testing.0.7.0\lib\net461\Spectre.System.Testing.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\spectre.system\src\Spectre.System.Testing\bin\Debug\net461\Spectre.System.Testing.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
